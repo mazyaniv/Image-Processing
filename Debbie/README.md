@@ -1,1 +1,1 @@
-First assignment of the "Selected topics in image processing" course, where I practice the basic concept of hyper-spectral picture analysis. 
+The first assignment of "Selected topics in image processing" course, where the basic concept of hyper-spectral picture analysis is practiced. 
